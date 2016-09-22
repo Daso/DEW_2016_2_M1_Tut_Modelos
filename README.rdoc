@@ -1,0 +1,4 @@
+== README
+
+Este es el proyecto desarrollado del curso DEW-UPC del tutorial Modelos, Asociaciones, Validaciones y Callbacks Semana 4, Sesión 8
+
